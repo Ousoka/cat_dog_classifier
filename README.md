@@ -1,7 +1,3 @@
-# cat_dog_classifier
-Link to it out : https://ok-cat-dog-classifier.streamlit.app/
-
-
 # Cat vs Dog Image Classifier using Transfer Learning
 
 ![Project Logo](https://img.icons8.com/color/48/000000/cat--v1.png) ![Project Logo](https://img.icons8.com/color/48/000000/dog.png)
